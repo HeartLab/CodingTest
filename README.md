@@ -15,7 +15,7 @@ all dates and times can be assumed to be in the same time zone.
 A code and test skeleton written in TypeScript is provided to help get you
 started.
 
-- Ensure you have Node.js v16 or later installed.
+- Ensure you have a recent version of Node.js installed.
 - Install packages with `npm install`.
 - To run the test watcher use `npm run test`.
 - The recommended IDE is VS Code.
